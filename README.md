@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Minkshi Sontakke</h1>
 <h3 align="center">A passionate software developer from India</h3>
-
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" alt="" width="450" align="right">
 - 🔭 I’m currently working on **Open to Work**
 
 - 🌱 I’m currently learning **Salesforce, Data Science, DSA, Software development**
